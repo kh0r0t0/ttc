@@ -9,23 +9,22 @@ int main(void){
 	//
 	//
 	
-	int year_in;
-	yaer_in	= 2024;
+	int datedenaiss= 2024;
 	
 	int birthday_year;
 	
-	int age;
-	age = year_in - birthday_year;
+	int age = datedenaiss - birthday_year;
 
-	printf(" || HOW OLD I'AM I ? || ");
+	printf(" || HOW OLD I'AM I ? || \n ");
 	
-	scanf("Enter your birthday year :  %d  ", birthday_year );
+	printf("Enter your birthday year :   ");
+	scanf(" %d ", &birthday_year );
 	
-	printf(" This is your birthday : %d  ", birthday_year );
+	printf(" This is your birthday : %d \n ", birthday_year );
 
-	printf(" YOUR AGE IS : %d  ", age );
+	printf(" YOUR AGE IS : %d \n ", age );
 
-	printf(" HAVE A NICE DAY! ");
+	printf(" HAVE A NICE DAY! \n ");
 
 		
 
