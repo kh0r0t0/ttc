@@ -10,7 +10,6 @@
     Y88b.  Y88b. Y88b.    
      "Y888  "Y888 "Y8888P 
                             v0.0.1
-                       
 
 # what's TTC realy is ?
 
