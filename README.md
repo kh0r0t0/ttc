@@ -1,21 +1,14 @@
 
-                                                                            
-                                                                            
-                                                                                888    888            
-                                                                                888    888            
-                                                                                888    888            
-                                                                                888888 888888 .d8888b 
-                                                                                888    888   d88P"    
-                                                                                888    888   888      
-                                                                                Y88b.  Y88b. Y88b.    
-                                                                                 "Y888  "Y888 "Y8888P 
+                                                  TTC ()
                                                                                                         v0.0.1
 
 
 
 
 
-###### what's TTC really is ?
+###### what's TTC really is ? 
+ttc is a security tool written in c, with focusing on simplicity & minimality.
+
 
 
 
