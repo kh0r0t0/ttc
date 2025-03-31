@@ -2,16 +2,36 @@
 #include<stdlib.h>
 #include<math.c>
 
+// ttc -- v0.1 
+
+
 
 
 int main(void){
-	unsigned int vone = 1000;
-	unsigned int vtwo = 2000;
+		// -- Containers -- 
+	unsigned int xcounter;
+	unsigned int ycounter;
 	
 
 	printf("  Ttc!!!  \n ");
-	return 0;
+	scanf(" %d, %s ", lower, upper)
+	
+
+
+	
+	
+	return continue;
 }
+
+// 5 classes 
+while x==y;
+
+class {}
+class {}
+class {}
+class {}
+class {}
+
 
 
 
