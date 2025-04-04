@@ -10,7 +10,7 @@
 
 
 
-int main(void){
+int main(){
 		// -- Containers -- 
 	unsigned int xcounter;
 	unsigned int ycounter;
